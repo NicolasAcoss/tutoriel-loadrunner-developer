@@ -1,20 +1,24 @@
-.. Tutoriel pour LoadRunner Developer documentation master file, created by
-   sphinx-quickstart on Tue Apr 25 15:19:41 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Bienvenue sur la documentation de LoadRunner Developer
+======================================================
 
-Welcome to Tutoriel pour LoadRunner Developer's documentation!
-==============================================================
+Le logiciel **LoadRunner Developer** ou « LoadRunner Developer » est un outil de `Micro Focus <https://admhelp.microfocus.com/admhelp/Content/home.htm/>`_ permettant de réaliser des tests de performances au niveau du protocole Web dès la phase de développement. Ce logiciel est utilisable avec beaucoup d’IDE tels qu’Eclipse, Jenkins, Visual Studio Code, WebStorm, Atom.io, etc… Les scripts sont basés sur un SDK JavaScript.
+
+.. note::
+
+   This project is under active development.
+
+
+
+
+
+
+
+
+
+
+Contents
+--------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   usage
