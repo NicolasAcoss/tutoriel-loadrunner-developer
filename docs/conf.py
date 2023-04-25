@@ -14,9 +14,9 @@ release = '0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = [
-    'sphinx.ext.duration',
-]
+#extensions = [
+#    'sphinx.ext.duration',
+#]
 
 source_suffix = '.rst'
 
