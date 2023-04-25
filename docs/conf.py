@@ -17,11 +17,17 @@ release = '0.1'
 extensions = [
     'sphinx.ext.duration',
 ]
+
+source_suffix = '.rst'
+
 master_doc = 'index'
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
 
 
 # -- Options for HTML output -------------------------------------------------
